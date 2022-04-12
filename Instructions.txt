@@ -1,0 +1,16 @@
+NOTE : THE GAME IS UNDER DEVELOPMENT,
+SO IT'S POSSIBLE THAT YOU FACE SOME BUGS ON THE GAME,
+ALSO, IT ISN'T POSSIBLE TO BEAT OR "WIN THE GAME" FOR NOW.
+
+*-- --- --- --- --- --- --- --- --*
+*-- M A T H --- F I G H T E R S --*
+*-- --- --- --- --- --- --- --- --*
+
+Instructions to run the program : 
+
+	1. Run Math-Fighters.exe
+
+	⚠️ WARNING : Make sure you don't move any file in a different folder otherwise the program will pop up an error or will function differently 
+	and you will need to reinstall the game or fix it by yourself.
+
+	ENJOY !
